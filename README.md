@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_vik4s" target="blank"><img src="https://img.shields.io/twitter/follow/_vik4s?logo=twitter&style=for-the-badge" alt="_vik4s" /></a> </p>
 
-- 🌱 I’m computer science student**
+- 🌱 I’m computer science student
 
 - 📫 EMAIL **vikaskumawat048@gmail.com**
 
